@@ -1,6 +1,6 @@
 <html>
  <head>
-  <style> background{ color: blue} </style>
+  
  </head>
  <body>
   <h2>Hola, la página web es esta, no se como ponerle más cosas.</h2>
